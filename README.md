@@ -1,2 +1,2 @@
-# gogdzl-homepage
+# go.gdzl.com.br
 go gdzl games homepage
